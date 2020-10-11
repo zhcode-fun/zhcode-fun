@@ -1,7 +1,7 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zh28&hide=swift&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-![Github Stats](https://github-readme-stats.vercel.app/api?username=zh28&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhcode-fun&hide=swift&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=zhcode-fun&show_icons=true&theme=dark)
 <!--
-**zh28/zh28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**zhcode-fun/zhcode-fun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
